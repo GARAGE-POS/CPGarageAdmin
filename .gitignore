@@ -2,8 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+temp_auto_push.bat
 /DAL/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 
 
 [Bb]in/
 .vs/
+temp_interactive_push.bat
